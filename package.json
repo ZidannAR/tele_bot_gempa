@@ -1,0 +1,15 @@
+{
+  "name": "nodejs(bot_tele)",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "bot": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
